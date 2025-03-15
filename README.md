@@ -1,4 +1,4 @@
-# college-exam-management
+# AI-Powered Exam Management & Question Paper Verification System
 
 Here’s a **professional `README.md` file** for your **College Exam Management System** project. It includes an **overview, features, installation guide, technologies used, and more.**  
 
